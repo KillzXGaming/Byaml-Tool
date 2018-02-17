@@ -1,0 +1,17 @@
+C:\Users\Nathan\Documents\Visual Studio 2017\Projects\ByamlEditor\ByamlEditor\bin\Release\ByamlTool.exe.config
+C:\Users\Nathan\Documents\Visual Studio 2017\Projects\ByamlEditor\ByamlEditor\bin\Release\ByamlTool.exe
+C:\Users\Nathan\Documents\Visual Studio 2017\Projects\ByamlEditor\ByamlEditor\bin\Release\ByamlTool.pdb
+C:\Users\Nathan\Documents\Visual Studio 2017\Projects\ByamlEditor\ByamlEditor\bin\Release\OpenTK.dll
+C:\Users\Nathan\Documents\Visual Studio 2017\Projects\ByamlEditor\ByamlEditor\bin\Release\Syroot.BinaryData.dll
+C:\Users\Nathan\Documents\Visual Studio 2017\Projects\ByamlEditor\ByamlEditor\bin\Release\Syroot.Maths.dll
+C:\Users\Nathan\Documents\Visual Studio 2017\Projects\ByamlEditor\ByamlEditor\bin\Release\Syroot.NintenTools.Byaml.dll
+C:\Users\Nathan\Documents\Visual Studio 2017\Projects\ByamlEditor\ByamlEditor\bin\Release\Syroot.NintenTools.Yaz0.dll
+C:\Users\Nathan\Documents\Visual Studio 2017\Projects\ByamlEditor\ByamlEditor\bin\Release\Syroot.BinaryData.xml
+C:\Users\Nathan\Documents\Visual Studio 2017\Projects\ByamlEditor\ByamlEditor\bin\Release\Syroot.Maths.xml
+C:\Users\Nathan\Documents\Visual Studio 2017\Projects\ByamlEditor\ByamlEditor\bin\Release\Syroot.NintenTools.Byaml.xml
+C:\Users\Nathan\Documents\Visual Studio 2017\Projects\ByamlEditor\ByamlEditor\bin\Release\Syroot.NintenTools.Yaz0.xml
+C:\Users\Nathan\Documents\Visual Studio 2017\Projects\ByamlEditor\ByamlEditor\obj\Release\ByamlEditor.ByamlTool.resources
+C:\Users\Nathan\Documents\Visual Studio 2017\Projects\ByamlEditor\ByamlEditor\obj\Release\ByamlEditor.Properties.Resources.resources
+C:\Users\Nathan\Documents\Visual Studio 2017\Projects\ByamlEditor\ByamlEditor\obj\Release\ByamlTool.csproj.GenerateResource.Cache
+C:\Users\Nathan\Documents\Visual Studio 2017\Projects\ByamlEditor\ByamlEditor\obj\Release\ByamlTool.exe
+C:\Users\Nathan\Documents\Visual Studio 2017\Projects\ByamlEditor\ByamlEditor\obj\Release\ByamlTool.pdb
